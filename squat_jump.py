@@ -1,4 +1,4 @@
-#Code to calculate specific parameters of the Squat Jump
+#Python code to Squat Jump evaluation
 #Journal Name : IOSR Journal of Sports and Physical Education
 #Article Title : Low cost Device for Vertical Jump Measurement in Sports Training
 #Authors: Meléndez-Gallardo, José; Hernández-Garcia, Facundo
