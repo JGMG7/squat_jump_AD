@@ -1,4 +1,10 @@
 #Code to calculate specific parameters of the Squat Jump
+#Journal Name : IOSR Journal of Sports and Physical Education
+#Article Title : Low cost Device for Vertical Jump Measurement in Sports Training
+#Authors: Meléndez-Gallardo, José; Hernández-Garcia, Facundo
+#Grupo de Investigación Biofísica y Bioquímica del Ejercicio,
+#Instituto Superior de Educación Física (ISEF)-Centro Universitario Regional del Este (CURE),
+#Universidad de la República (Udelar), Uruguay.
 
 import datetime
 import sys
