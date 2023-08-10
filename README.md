@@ -1,2 +1,2 @@
 # squat_jump_AD
-Code Python to calculate the Squat Jump parameters
+Python code to calculate the Squat Jump parameters
